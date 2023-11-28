@@ -47,7 +47,7 @@ Meu Linkedin: [elisandro-soares](https://www.linkedin.com/in/elisandro-soares/);
 
 Github: [@Zandro007](https://github.com/Zandro007) &nbsp;&middot;&nbsp;
 
-YouTube [@kipperdev](https://www.youtube.com/@kipperdev) &nbsp;&middot;&nbsp;
+X:  [@Zandro007](https://twitter.com/zandro007) &nbsp;&middot;&nbsp;
 
 
 ## 📝 Licença
