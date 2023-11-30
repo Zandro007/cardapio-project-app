@@ -1,46 +1,45 @@
-# Cardápio Virtual - README
+# Virtual Menu - README
 
-## Descrição
+## Description
 
-Bem-vindo ao Cardápio Virtual, um sistema completo para gerenciamento de cardápios de restaurantes. Este projeto utiliza React no frontend para uma interface amigável e Java no backend para fornecer funcionalidades robustas. O banco de dados PostgreSQL é empregado para armazenar e gerenciar os dados relacionados aos itens do cardápio.
+Welcome to the Virtual Menu, a comprehensive system for restaurant menu management. This project utilizes React on the frontend for a user-friendly interface and Java on the backend to provide robust functionalities. The PostgreSQL database is employed to store and manage data related to menu items.
 
-## Requisitos do Sistema
+## System Requirements
 
-Certifique-se de ter as seguintes ferramentas instaladas em sua máquina antes de executar o programa:
+Make sure you have the following tools installed on your machine before running the program:
 
 - Node.js
 - npm (Node Package Manager)
 - Java SDK
 - PostgreSQL
 
-## Configuração do Banco de Dados
+## Database Configuration
 
-1. Crie um banco de dados PostgreSQL com o nome desejado.
-2. Atualize as informações de conexão do banco de dados no arquivo `application.properties` no diretório `backend/src/main/resources`.
+1. Create a PostgreSQL database with the desired name.
+2. Update the database connection information in the `application.properties` file in the `backend/src/main/resources` directory.
 
-## Configuração do Backend
+## Backend Configuration
 
-1. Navegue até o diretório `backend` no terminal.
-2. Execute `./mvnw spring-boot:run` para iniciar o servidor backend.
+1. Navigate to the `backend` directory in the terminal.
+2. Run `./mvnw spring-boot:run` to start the backend server.
 
-## Configuração do Frontend
+## Frontend Configuration
 
-1. Navegue até o diretório `frontend` no terminal.
-2. Execute `npm install` para instalar as dependências.
-3. Atualize a URL de conexão com o backend no arquivo `src/services/api.js`.
-4. Execute `npm start` para iniciar o servidor frontend.
+1. Navigate to the `frontend` directory in the terminal.
+2. Run `npm install` to install dependencies.
+3. Update the backend connection URL in the `src/services/api.js` file.
+4. Run `npm start` to start the frontend server.
 
-## Uso
+## Usage
 
-Acesse o sistema pelo navegador usando o endereço fornecido pelo servidor frontend. O sistema permite visualizar, adicionar, editar e excluir itens do cardápio de maneira intuitiva.
+Access the system through the browser using the address provided by the frontend server. The system allows for intuitive viewing, adding, editing, and deleting of menu items.
 
-## Contribuições
+## Contributions
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests.
+Contributions are welcome! Feel free to open issues and submit pull requests.
 
-## Autor
+## Author
 
-Este projeto foi desenvolvido por [Eli Soares] - https://www.linkedin.com/in/elisandro-soares/.
+This project was developed by [Eli Soares] - https://www.linkedin.com/in/elisandro-soares/.
 
 ---
-
